@@ -55,10 +55,6 @@ g++ main.cpp -o 3body_sim.exe -I C:/path/to/raylib/include -L C:/path/to/raylib/
 # If using static Raylib library, linking flags might differ slightly (check Raylib examples)
 ```
 
-3. Using Makefiles or Build Systems (Recommended for larger projects):
-
-Using a Makefile or a build system like CMake simplifies the process, especially across different platforms. Consult Raylib's template examples for setting these up.
-
 ▶️ Running
 
 Once successfully compiled, run the executable from your terminal:
